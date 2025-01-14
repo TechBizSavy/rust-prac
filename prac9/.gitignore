@@ -1,0 +1,13 @@
+# Ignore all the extra files
+*.target/debug/
+*.lock
+*.toml
+*.exe
+*.json
+*.rmeta
+
+# Added by cargo
+
+/target
+Cargo.toml
+Cargo.lock
