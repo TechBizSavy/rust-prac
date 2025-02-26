@@ -5,7 +5,8 @@ Welcome to the Rust Programming Series! 🎉 In this series, we dive into the wo
 
 🛠️ How to Get Started
 Clone the Repository:
-git clone https://github.com/TechBizSavy/rust-problems/tree/master
+git clone https://github.com/TechBizSavy/rust-prac.git                    
+  
 
 Navigate to the Project Directory:
 cd rust-problems
